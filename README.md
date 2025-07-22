@@ -1,4 +1,4 @@
-# ☀️ Simulation & Optimization of a Photovoltaic Production Facility
+# ☀️ Simulation & Optimization of a Photovoltaic Panel Production Facility
 
 ## 📌 Problem Statement
 
