@@ -105,7 +105,7 @@ Staffing levels and shift patterns for each of the 12 months are detailed in **T
 - To ensure a **minimum 20% return on investment**, sales price targets were calculated.
 - At a unit wafer price of **$0.84**, the projected **12-month return** is **121.47%**.
 - Monthly pricing targets are shown in figure below.
-
+![Summary](images/Summary.png)
 ---
 
 ## 📚 References
