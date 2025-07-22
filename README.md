@@ -29,11 +29,11 @@ The simulation modeling lifecycle was followed to guide project development. Key
 - Outlined key questions posed by NWE’s CTO.
 
 ### 🗂️ 2. Project Planning
-- Developed a **Gantt chart** to plan and track the 79-day project timeline (Shown in **Figure 1** of the report).
+- Developed a **Gantt chart** to plan and track the 79-day project timeline (Shown in **Figure 1** of the final report).
 
 ### 🔄 3. System Definition
 - Created:
-  - A process flow diagram of the manufacturing system (Shown in **Figure 2** of the report).
+  - A process flow diagram of the manufacturing system (Shown in **Figure 2** of the final report).
   - A deterministic Excel-based cost and layout estimate.
 
 ### 🧠 4. Conceptual Modeling
@@ -47,7 +47,7 @@ The simulation modeling lifecycle was followed to guide project development. Key
 - Gathered machine processing times, staffing needs, and other data in collaboration with course instructor.
 
 ### ⚙️ 7–9. Model Development
-- **Model Translation**: Implemented the logic in **Witness simulation software** (Shown in **Figures 7-10** of the report).
+- **Model Translation**: Implemented the logic in **Witness simulation software** (Shown in **Figures 7-10** of the final report).
 - **Model Verification**: Ensured logical correctness.
 - **Model Validation**: Collaborated with the course instructor to verify model accuracy.
 
