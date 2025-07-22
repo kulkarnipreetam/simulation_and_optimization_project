@@ -1,8 +1,8 @@
-# ☀️ Simulation & Optimization of a Photovoltaic Panel Production Facility
+# ☀️ Simulation & Optimization of a Photovoltaic Silicon Wafer Production Facility
 
 ## 📌 Problem Statement
 
-New World Energy (NWE) intends to establish a photovoltaic (PV) panel production facility in **Akureyri, Iceland**, targeting a production capacity of **1.8 Megawatts per month**. With the region’s abundant crystallized silicon deposits, access to renewable geothermal energy, and strong policy incentives, Akureyri presents a strategic location for this initiative.
+New World Energy (NWE) intends to establish a photovoltaic (PV) wafer production facility in **Akureyri, Iceland**, targeting a production capacity of **1.8 Megawatts per month**. With the region’s abundant crystallized silicon deposits, access to renewable geothermal energy, and strong policy incentives, Akureyri presents a strategic location for this initiative.
 
 This project utilizes **discrete event simulation and optimization techniques** to address key facility planning and investment decisions posed by NWE’s Chief Technology Officer (role played by the course instructor).
 
